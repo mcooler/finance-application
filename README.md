@@ -1,2 +1,2 @@
 # finance-application
-Online financial application
+Online finance application
